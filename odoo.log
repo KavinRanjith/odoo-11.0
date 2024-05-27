@@ -1,0 +1,23 @@
+2024-05-24 10:39:54,774 3948 INFO ? odoo: Odoo version 11.0
+2024-05-24 10:39:54,775 3948 INFO ? odoo: Using configuration file at E:\POC\odoo\odoo-11.0\odoo.conf
+2024-05-24 10:39:54,775 3948 INFO ? odoo: addons paths: ['c:\\users\\sunwa\\appdata\\local\\openerp s.a\\odoo\\addons\\11.0', 'e:\\poc\\odoo\\odoo-11.0\\addons', 'e:\\poc\\odoo\\odoo-11.0\\odoo\\addons', 'E:\\POC\\odoo\\odoo-11.0\\odoo\\addons']
+2024-05-24 10:39:54,775 3948 INFO ? odoo: database: odoo11@localhost:5432
+2024-05-24 10:39:54,797 3948 INFO ? odoo.service.server: HTTP service (werkzeug) running on SUNWARE.domain.name:8069
+2024-05-24 10:39:55,034 3948 INFO ? odoo.addons.base.ir.ir_actions_report: Will use the Wkhtmltopdf binary at C:\Program Files\wkhtmltopdf\bin\wkhtmltopdf.exe
+2024-05-24 10:40:21,931 3948 INFO ? odoo.addons.sms.wizard.send_sms: The `phonenumbers` Python module is not available. Phone number validation will be skipped. Try `pip3 install phonenumbers` to install it.
+2024-05-24 10:40:23,031 3948 INFO ? odoo.http: HTTP Configuring static files
+2024-05-24 10:40:23,134 3948 INFO ? odoo.http: Generating nondb routing
+2024-05-24 10:40:23,159 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:23] "GET / HTTP/1.1" 200 -
+2024-05-24 10:40:23,355 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:23] "GET /web HTTP/1.1" 303 -
+2024-05-24 10:40:23,869 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:23] "GET /web/database/selector HTTP/1.1" 200 -
+2024-05-24 10:40:24,223 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/fontawesome/css/font-awesome.css HTTP/1.1" 200 -
+2024-05-24 10:40:24,224 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/bootstrap/css/bootstrap.css HTTP/1.1" 200 -
+2024-05-24 10:40:24,237 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/bootstrap/js/modal.js HTTP/1.1" 200 -
+2024-05-24 10:40:24,237 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/bootstrap/js/dropdown.js HTTP/1.1" 200 -
+2024-05-24 10:40:24,239 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/bootstrap/js/tooltip.js HTTP/1.1" 200 -
+2024-05-24 10:40:24,271 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/jquery/jquery.js HTTP/1.1" 200 -
+2024-05-24 10:40:24,547 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/lib/fontawesome/fonts/fontawesome-webfont.woff2?v=4.7.0 HTTP/1.1" 200 -
+2024-05-24 10:40:24,649 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:24] "GET /web/static/src/img/logo2.png HTTP/1.1" 200 -
+2024-05-24 10:40:25,826 3948 INFO ? werkzeug: 127.0.0.1 - - [24/May/2024 10:40:25] "GET /web/static/src/img/favicon.ico HTTP/1.1" 200 -
+2024-05-24 10:41:30,226 3948 INFO ? odoo.service.server: Initiating shutdown
+2024-05-24 10:41:30,226 3948 INFO ? odoo.service.server: Hit CTRL-C again or send a second signal to force the shutdown.
